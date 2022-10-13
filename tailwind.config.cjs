@@ -5,9 +5,8 @@ module.exports = { // eslint-disable-line
   ],
   theme: {
     fontSize: {
-      xs:14,
-      sm:16,
-      md:18,
+      sm:14,
+      md:16,
       lg:20,
       xl:24,
       '2xl':32
